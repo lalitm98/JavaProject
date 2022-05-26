@@ -7,3 +7,4 @@ else:
     main2=input("are yoy main2?")
     if main2=="yes"
     print("drink water")
+    print("drink soda")
