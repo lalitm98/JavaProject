@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hungry = input("are you hungry?")
 if hungry=="yes"
     print("eat samosa")
@@ -8,3 +9,9 @@ else:
     if main2=="yes"
     print("drink water")
     print("drink soda")
+=======
+print("i'm Hungry")
+print("I want pizza")
+print("I want burger")
+print("i want fries")
+>>>>>>> main2
