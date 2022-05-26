@@ -1,2 +1,3 @@
 print("i'm Hungry")
-print("i want pizza")
+print("I want pizza")
+print("I want burger")
